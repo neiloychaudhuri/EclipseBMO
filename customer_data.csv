@@ -1,0 +1,5 @@
+Domain,CustomerID,Name,Email,Address,Phone
+Checking,101,John Smith,john.smith@gmail.com,123 Main St,555-1234
+Loans,202,John S.,johnsmith@gmail.com,123 Main Street,555-1234
+Wealth Management,303,Jonathan Smith,j.smith@gmail.com,123 Main St Apt 2,555-1234
+Investments,404,John Smith,jsmith@gmail.com,123 Main St,555-1235
